@@ -1,4 +1,4 @@
-Machine Learning Foundations - Final Project
+# Machine Learning Foundations - Final Project #
 Overview of the Project
 
 Dataset - Set of anonymised data from a telecommunications company. Project lies in creating a prediction model that can work with a large amount of input features.
